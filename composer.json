@@ -1,6 +1,9 @@
 {
 	"name": "jaeger-app/platforms-magento",
 	"description": "An Magento CMS Platform object for use with Jaeger.",
+    "keywords": [
+        "Magento"
+    ],	
 	"require": {
 		"php": ">=5.4.0",
 		"jaeger-app/exceptions": "dev-master",
